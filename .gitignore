@@ -1,0 +1,6 @@
+.env
+env.txt
+.venv/
+__pycache__/
+.pytest_cache/
+results/*.wav
